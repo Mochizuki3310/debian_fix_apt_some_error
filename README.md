@@ -1,1 +1,1 @@
-# fix_some_error
+Something I collect about to fix apt error
